@@ -19,6 +19,7 @@ A Next.js application demonstrating smooth camera transitions, 3D object interac
 - **Material Switching**: Toggle between Blue, Red, and Gold materials
 
 ### 🎨 Professional UI
+![Home Page](https://github.com/user-attachments/assets/b29b8468-1c0e-48b0-a041-8869ae7e2010)
 
 - **Clean Interface**: Modern, responsive design with Tailwind CSS
 - **Control Panel**: Intuitive controls for camera and material settings
